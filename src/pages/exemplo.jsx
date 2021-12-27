@@ -3,8 +3,8 @@ import Cabecalho from "../components/Cabecalho";
 export default function Exemple(){
     return(
         <>
-            <Cabecalho/>
-            <Cabecalho/>
+            <Cabecalho titulo="Next.js"/>
+            <Cabecalho titulo="React.js"/>
         </>
     )
 }
