@@ -15,6 +15,7 @@ export default function Inicio(){
       <Navegeador titulo="JSX"      destino="/jsx"      cor="firebrick"></Navegeador>
       <Navegeador titulo="Navegação #01"      destino="/navegacao"      cor="green"></Navegeador>
       <Navegeador titulo="Navegação #02"      destino="/cliente/sp-1/123"      cor="green"></Navegeador>
+      <Navegeador titulo="Componente com Estado"      destino="/estado"      cor="pink"></Navegeador>
     </div>
   )
 }
